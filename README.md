@@ -8,7 +8,7 @@
 - 🏫 Channabasaveshwara Institute of Technology, Tumkur
 - 🧠 Passionate about problem-solving and logical thinking
 - 📚 Currently learning Data Structures & Algorithms and React
-- 🚀 Growing through practice, projects, and consistency
+
 
 
 ## 🛠️ Languages & Tools
